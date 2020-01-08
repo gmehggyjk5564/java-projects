@@ -1,0 +1,17 @@
+Country,Continent
+Brazil,South America
+Canada,North America
+China,Asia
+Colombia,South America
+Egypt,Africa
+France,Europe
+Indonesia,Asia
+Italy,Europe
+Japan,Asia
+Nigeria,Africa
+Mexico,North America
+South Africa,Africa
+South Korea,Asia
+United States of America,North America
+Mostus Populus,Testanica
+Small Areaty,Testanica

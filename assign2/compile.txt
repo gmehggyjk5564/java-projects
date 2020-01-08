@@ -1,0 +1,20 @@
+SearchForExit.java:75: error: unmappable character (0x92) for encoding UTF-8
+			// Saves the labyrinth�s finished state to a file called �processed_� + input
+			                      ^
+SearchForExit.java:75: error: unmappable character (0x93) for encoding UTF-8
+			// Saves the labyrinth�s finished state to a file called �processed_� + input
+			                                                         ^
+SearchForExit.java:75: error: unmappable character (0x94) for encoding UTF-8
+			// Saves the labyrinth�s finished state to a file called �processed_� + input
+			                                                                    ^
+3 errors
+SearchForTreasure.java:70: error: unmappable character (0x92) for encoding UTF-8
+			// Saves the labyrinth�s finished state to a file called �processed_� + input
+			                      ^
+SearchForTreasure.java:70: error: unmappable character (0x93) for encoding UTF-8
+			// Saves the labyrinth�s finished state to a file called �processed_� + input
+			                                                         ^
+SearchForTreasure.java:70: error: unmappable character (0x94) for encoding UTF-8
+			// Saves the labyrinth�s finished state to a file called �processed_� + input
+			                                                                    ^
+3 errors

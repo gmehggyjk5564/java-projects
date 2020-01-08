@@ -1,0 +1,45 @@
+Grade Report spryadko
+=======================================================
+Compiler Errors Existed - could not auto run SearchForExit
+------------------------------------------------------------
+Compiler Errors Existed - could not auto run SearchForTreasure
+------------------------------------------------------------
+Part 1 [80 marks]
+    80 : Performs as specified!
+    75 : Did not handle exceptions correctly
+    75/70 : Minor issue(s) in output
+    70 : No file output
+    60 : Consistent incorrect behaviour
+    50 maximum : Does not compile/run
+           : depends how much is there
+    0 : not submitted
+    
+-------------------------------------------------------
+Part 2 [20 marks]
+    20 : Performs as specified!
+    18 : Did not handle exceptions correctly
+    15 : Did not match solution output
+    10 maximum : Does not compile/run
+           : depends how much is there
+    0 : not submitted
+
+-------------------------------------------------------
+___ Total Deductions for Non-functional specs
+        [-0:most -1:some -3:none]
+
+    Block comment at the top of each file with their name 
+    Comments in their code describing major steps
+    Meaningful names 
+    Camel casing
+    Indentation/whitespace
+=======================================================
+___ / 100 Grade for Asn2
+
+-------------------------------------------------------
+Grader Comments:
+
+The compile.txt file contains the result of running javac *.java
+The runSFE.txt and runSFT.txt contain the output of running several
+  test files on your SearchForExit and SearchForTreasure programs respectively.
+
+If you have any questions about the assignment grading, please see your TA or instructor.

@@ -1,0 +1,5 @@
+Grader Comments
+AutogradingCountry.txt:20.0 / 20 Base Grade For Country.java
+AutogradingOutputCatalog.txt:72.0 / 80 Base Grade For CountryCatalogue.java
+
++4 Printed correct most populous population

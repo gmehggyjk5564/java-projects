@@ -1,0 +1,25 @@
+Grade Report
+=====================================
+   Testing Country Class
+=====================================
+The = indicate correct behaviour was observed
+The X indicates incorrect behaviour
+Testing: Canada
+	Getters: ====
+	Population density: =
+	Set population to 0: =
+	toString: =
+Testing: Indonesia
+	Getters: ====
+	Population density: =
+	Set population to 0: =
+	toString: =
+=====================================
+     Summary
+=====================================
+  4.0 /4 Getter Methods
+  4 /4 Population Density
+  2 /2 Setter Method
+  10 /10 toString Method
+20.0 / 20 Base Grade For Country.java
+=====================================
